@@ -36,11 +36,6 @@ pre{
     padding: 10px;
     
 }
-#tooImg{
-    >img{
-        border-radius: 20px;
-    }
-}
 .cartBtn{
     border: none;
     color: black;

@@ -6,12 +6,12 @@ const data = [
     {
     title:"Fan repair",
     price:109
-    },
-    {
+},
+{
     title:"Tap repair",
     price:49
-    },
-    {
+},
+{
     title:"Flush Tank repair",
     price:82
     },
